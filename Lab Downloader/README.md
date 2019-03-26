@@ -2,9 +2,17 @@
 One bookmarklet to quick save Lab assignment on Hacker Rank.
 ## Installing
 
+<<<<<<< HEAD
 **Step 1: **Creat one bookmark on your browser.
 **Step 2: **Copy code into `URL` .
 **Step 3: **Save and Enjoy.
+=======
+**Step 1:** Creat one bookmark on your browser.
+
+**Step 2:** Copy code into `URL` .
+
+**Step 3:** Save and Enjoy.
+>>>>>>> b3a1d2d9e7d983b20e27e5a676362f5942609974
 
 ## Code
 ```
