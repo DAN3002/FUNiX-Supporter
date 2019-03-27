@@ -16,5 +16,5 @@ function download(data, filename, type) {
     }
 }
 var name = prompt("Input file name");
-download($("textarea").text(),name + ".txt",".txt");
+download($("textarea").val(),name + ".txt",".txt");
 
