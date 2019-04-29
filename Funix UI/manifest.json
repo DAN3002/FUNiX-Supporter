@@ -1,0 +1,27 @@
+  {
+    "name": "FUXiX UI",
+    "version": "0.1",
+    "description": "Fix UI of FUNiX's LMS",
+    "manifest_version": 2,
+	"content_scripts": 
+	[
+	   {
+	     "matches": [
+	     	"https://lms.funix.edu.vn/*"
+	     ],
+	     "js": [
+	     	"JS/jquery-3.3.1.min.js",
+	     	"JS/content.js" 	  	
+	     ]
+	   }
+	],   
+	"browser_action":
+	{
+		"default_icon": "Icon/icon3.png"
+	},
+	"icons": { 
+		"16": "Icon/icon1.png",
+		"48": "Icon/icon2.png",
+		"128": "Icon/icon3.png" 
+	}
+  }
