@@ -1,4 +1,4 @@
-# Funix-Font-Changer
+# Funix UI
 Extension cho Chrome dùng để thay đổi giao diện cho trên trang [LMS](https://lms.funix.edu.vn/) của Funix.
 
 # Lưu ý cài đặt
@@ -15,24 +15,12 @@ Extension này hiện tại chỉ sử dụng được cho Chrome hoặc các Br
 
 **Video hướng dẫn:** https://www.youtube.com/watch?v=f05Mr296Lho
 
-
-# Cách sử dụng
-
-1. Nhấn vào biểu tượng của extension trên thanh công cụ. 
-2. Thay đổi các cài đặt theo ý thích rồi nhấn `Save`.
-3. Tải lại trang web LMS để áp dụng thay đổi.
-
 # Được xây dựng với
 
 * Jquery.
 
 # Demo
-![](https://github.com/DAN3002/Funix-Font-Changer/blob/master/Demo/Demo1.jpg)
-![](https://github.com/DAN3002/Funix-Font-Changer/blob/master/Demo/Demo2.jpg)
-![](https://github.com/DAN3002/Funix-Font-Changer/blob/master/Demo/Demo3.jpg)
-
-# Log
-Bạn có thể xem các sửa đổi của các version tại [đây](https://github.com/DAN3002/Funix-Font-Changer/blob/master/Change%20Log.md)
+![](https://github.com/DAN3002/FUNiX-Supporter/blob/master/Funix%20UI/Demo.jpg)
 
 # Tác giả
 D.A.N_3002
