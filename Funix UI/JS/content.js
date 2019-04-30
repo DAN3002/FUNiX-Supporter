@@ -21,15 +21,22 @@ $(document).ready(function() {
 		// Creat Float popup
 		var ele = $("<div></div>");
 		ele.attr({id : "list-container"});
+
+		// Add Button
 		var button = $("<div></div>");
 		button.attr({id: 'list-button'});
 		button.append($("<i></i>").attr({class:"fas fa-list"}));
 		ele.append(button);
+
+		// Creat List element
 		var listEle = $("<div></div>").attr({id: "list"});
 		var itemList = $("#sequence-list").find("li > button");
+
+		// Add item to List
 		itemList.each(function(index, el) {
 			let item = $("<div></div>").attr({class: "list-element"})
 			item.append($(el).attr("data-page-title"));
+			// Click 
 			$(item).click(function(event) {
 				$(el).trigger( "click" );
 				$(".list-element").removeAttr("style");
@@ -89,9 +96,11 @@ $(document).ready(function() {
 		    document.onmousemove = null;
 		  }
 		}
+
 		$(button).dblclick(function(event) {
 			$(listEle).toggle("slow/400/fast");
 		});
+		
 		$(listEle).toggle();
 		$(".sequence-nav").hide();		
 	}

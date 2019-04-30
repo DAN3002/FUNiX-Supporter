@@ -4,6 +4,7 @@ ALL bookmarklet or extension support for xTer FUNiX.
 
 * [Lab Dowmloader](https://github.com/DAN3002/FUNiX-Supporter/tree/master/Lab%20Downloader)
 * [CSI Downloader](https://github.com/DAN3002/FUNiX-Supporter/tree/master/CSI%20Downloader)
+* [FUNiX UI](https://github.com/DAN3002/FUNiX-Supporter/tree/master/Funix%20UI)
 
 ## Author
 D.A.N_3002
