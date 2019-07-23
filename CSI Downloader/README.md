@@ -1,9 +1,9 @@
 ## CSI Downloader
 One bookmarklet to quick save file assignment on stanford for CSI.
 ## Installing
-**Step 1: **Creat one bookmark on your browser.
-**Step 2: **Copy code into `URL` .
-**Step 3: **Save and Enjoy.
+**Step 1:** Creat one bookmark on your browser.
+**Step 2:** Copy code into `URL` .
+**Step 3:** Save and Enjoy.
 
 ##  Code
 ```
